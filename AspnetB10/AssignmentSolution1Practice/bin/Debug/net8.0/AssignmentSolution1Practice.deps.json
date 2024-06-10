@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AssignmentSolution1Practice/1.0.0": {
+        "runtime": {
+          "AssignmentSolution1Practice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AssignmentSolution1Practice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

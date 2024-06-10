@@ -1,0 +1,14 @@
+C:\Users\DCL\source\AspnetB10\AssignmentPractice\bin\Debug\net8.0\AssignmentPractice.exe
+C:\Users\DCL\source\AspnetB10\AssignmentPractice\bin\Debug\net8.0\AssignmentPractice.deps.json
+C:\Users\DCL\source\AspnetB10\AssignmentPractice\bin\Debug\net8.0\AssignmentPractice.runtimeconfig.json
+C:\Users\DCL\source\AspnetB10\AssignmentPractice\bin\Debug\net8.0\AssignmentPractice.dll
+C:\Users\DCL\source\AspnetB10\AssignmentPractice\bin\Debug\net8.0\AssignmentPractice.pdb
+C:\Users\DCL\source\AspnetB10\AssignmentPractice\obj\Debug\net8.0\AssignmentPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\AspnetB10\AssignmentPractice\obj\Debug\net8.0\AssignmentPractice.AssemblyInfoInputs.cache
+C:\Users\DCL\source\AspnetB10\AssignmentPractice\obj\Debug\net8.0\AssignmentPractice.AssemblyInfo.cs
+C:\Users\DCL\source\AspnetB10\AssignmentPractice\obj\Debug\net8.0\AssignmentPractice.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\AspnetB10\AssignmentPractice\obj\Debug\net8.0\AssignmentPractice.dll
+C:\Users\DCL\source\AspnetB10\AssignmentPractice\obj\Debug\net8.0\refint\AssignmentPractice.dll
+C:\Users\DCL\source\AspnetB10\AssignmentPractice\obj\Debug\net8.0\AssignmentPractice.pdb
+C:\Users\DCL\source\AspnetB10\AssignmentPractice\obj\Debug\net8.0\AssignmentPractice.genruntimeconfig.cache
+C:\Users\DCL\source\AspnetB10\AssignmentPractice\obj\Debug\net8.0\ref\AssignmentPractice.dll

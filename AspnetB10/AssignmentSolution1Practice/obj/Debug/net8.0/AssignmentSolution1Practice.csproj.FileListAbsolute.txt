@@ -1,0 +1,14 @@
+C:\Users\DCL\source\AspnetB10\AssignmentSolution1Practice\bin\Debug\net8.0\AssignmentSolution1Practice.exe
+C:\Users\DCL\source\AspnetB10\AssignmentSolution1Practice\bin\Debug\net8.0\AssignmentSolution1Practice.deps.json
+C:\Users\DCL\source\AspnetB10\AssignmentSolution1Practice\bin\Debug\net8.0\AssignmentSolution1Practice.runtimeconfig.json
+C:\Users\DCL\source\AspnetB10\AssignmentSolution1Practice\bin\Debug\net8.0\AssignmentSolution1Practice.dll
+C:\Users\DCL\source\AspnetB10\AssignmentSolution1Practice\bin\Debug\net8.0\AssignmentSolution1Practice.pdb
+C:\Users\DCL\source\AspnetB10\AssignmentSolution1Practice\obj\Debug\net8.0\AssignmentSolution1Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\AspnetB10\AssignmentSolution1Practice\obj\Debug\net8.0\AssignmentSolution1Practice.AssemblyInfoInputs.cache
+C:\Users\DCL\source\AspnetB10\AssignmentSolution1Practice\obj\Debug\net8.0\AssignmentSolution1Practice.AssemblyInfo.cs
+C:\Users\DCL\source\AspnetB10\AssignmentSolution1Practice\obj\Debug\net8.0\AssignmentSolution1Practice.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\AspnetB10\AssignmentSolution1Practice\obj\Debug\net8.0\AssignmentSolution1Practice.dll
+C:\Users\DCL\source\AspnetB10\AssignmentSolution1Practice\obj\Debug\net8.0\refint\AssignmentSolution1Practice.dll
+C:\Users\DCL\source\AspnetB10\AssignmentSolution1Practice\obj\Debug\net8.0\AssignmentSolution1Practice.pdb
+C:\Users\DCL\source\AspnetB10\AssignmentSolution1Practice\obj\Debug\net8.0\AssignmentSolution1Practice.genruntimeconfig.cache
+C:\Users\DCL\source\AspnetB10\AssignmentSolution1Practice\obj\Debug\net8.0\ref\AssignmentSolution1Practice.dll

@@ -1,0 +1,14 @@
+C:\Users\DCL\source\AspnetB10\JsonPractice\obj\Debug\net7.0\JsonPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\AspnetB10\JsonPractice\obj\Debug\net7.0\JsonPractice.AssemblyInfoInputs.cache
+C:\Users\DCL\source\AspnetB10\JsonPractice\obj\Debug\net7.0\JsonPractice.AssemblyInfo.cs
+C:\Users\DCL\source\AspnetB10\JsonPractice\obj\Debug\net7.0\JsonPractice.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\AspnetB10\JsonPractice\bin\Debug\net7.0\JsonPractice.exe
+C:\Users\DCL\source\AspnetB10\JsonPractice\bin\Debug\net7.0\JsonPractice.deps.json
+C:\Users\DCL\source\AspnetB10\JsonPractice\bin\Debug\net7.0\JsonPractice.runtimeconfig.json
+C:\Users\DCL\source\AspnetB10\JsonPractice\bin\Debug\net7.0\JsonPractice.dll
+C:\Users\DCL\source\AspnetB10\JsonPractice\bin\Debug\net7.0\JsonPractice.pdb
+C:\Users\DCL\source\AspnetB10\JsonPractice\obj\Debug\net7.0\JsonPractice.dll
+C:\Users\DCL\source\AspnetB10\JsonPractice\obj\Debug\net7.0\refint\JsonPractice.dll
+C:\Users\DCL\source\AspnetB10\JsonPractice\obj\Debug\net7.0\JsonPractice.pdb
+C:\Users\DCL\source\AspnetB10\JsonPractice\obj\Debug\net7.0\JsonPractice.genruntimeconfig.cache
+C:\Users\DCL\source\AspnetB10\JsonPractice\obj\Debug\net7.0\ref\JsonPractice.dll

@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\istia\\source\\AspnetB10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE112CE2-B7AE-4EED-B83B-69DDE34514D0}|AssignmentSolution1Practice\\AssignmentSolution1Practice.csproj|c:\\users\\istia\\source\\aspnetb10\\assignmentsolution1practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE112CE2-B7AE-4EED-B83B-69DDE34514D0}|AssignmentSolution1Practice\\AssignmentSolution1Practice.csproj|solutionrelative:assignmentsolution1practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE112CE2-B7AE-4EED-B83B-69DDE34514D0}|AssignmentSolution1Practice\\AssignmentSolution1Practice.csproj|c:\\users\\istia\\source\\aspnetb10\\assignmentsolution1practice\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE112CE2-B7AE-4EED-B83B-69DDE34514D0}|AssignmentSolution1Practice\\AssignmentSolution1Practice.csproj|solutionrelative:assignmentsolution1practice\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE112CE2-B7AE-4EED-B83B-69DDE34514D0}|AssignmentSolution1Practice\\AssignmentSolution1Practice.csproj|c:\\users\\istia\\source\\aspnetb10\\assignmentsolution1practice\\jsonformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE112CE2-B7AE-4EED-B83B-69DDE34514D0}|AssignmentSolution1Practice\\AssignmentSolution1Practice.csproj|solutionrelative:assignmentsolution1practice\\jsonformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C8F9B6-F528-4520-AA13-7815E674E240}|AssignmentSolution1\\AssignmentSolution1.csproj|c:\\users\\istia\\source\\aspnetb10\\assignmentsolution1\\jsonformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C8F9B6-F528-4520-AA13-7815E674E240}|AssignmentSolution1\\AssignmentSolution1.csproj|solutionrelative:assignmentsolution1\\jsonformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JsonFormatter.cs",
+              "DocumentMoniker": "C:\\Users\\istia\\source\\AspnetB10\\AssignmentSolution1\\JsonFormatter.cs",
+              "RelativeDocumentMoniker": "AssignmentSolution1\\JsonFormatter.cs",
+              "ToolTip": "C:\\Users\\istia\\source\\AspnetB10\\AssignmentSolution1\\JsonFormatter.cs",
+              "RelativeToolTip": "AssignmentSolution1\\JsonFormatter.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAywAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T07:58:38.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JsonFormatter.cs",
+              "DocumentMoniker": "C:\\Users\\istia\\source\\AspnetB10\\AssignmentSolution1Practice\\JsonFormatter.cs",
+              "RelativeDocumentMoniker": "AssignmentSolution1Practice\\JsonFormatter.cs",
+              "ToolTip": "C:\\Users\\istia\\source\\AspnetB10\\AssignmentSolution1Practice\\JsonFormatter.cs",
+              "RelativeToolTip": "AssignmentSolution1Practice\\JsonFormatter.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAAAGsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T07:23:56.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\istia\\source\\AspnetB10\\AssignmentSolution1Practice\\Teacher.cs",
+              "RelativeDocumentMoniker": "AssignmentSolution1Practice\\Teacher.cs",
+              "ToolTip": "C:\\Users\\istia\\source\\AspnetB10\\AssignmentSolution1Practice\\Teacher.cs",
+              "RelativeToolTip": "AssignmentSolution1Practice\\Teacher.cs",
+              "ViewState": "AQIAALwAAAAAAAAAAAAqwM0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T07:23:54.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\istia\\source\\AspnetB10\\AssignmentSolution1Practice\\Program.cs",
+              "RelativeDocumentMoniker": "AssignmentSolution1Practice\\Program.cs",
+              "ToolTip": "C:\\Users\\istia\\source\\AspnetB10\\AssignmentSolution1Practice\\Program.cs",
+              "RelativeToolTip": "AssignmentSolution1Practice\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T07:23:53.337Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

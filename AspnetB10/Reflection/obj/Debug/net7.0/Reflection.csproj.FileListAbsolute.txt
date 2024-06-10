@@ -1,0 +1,14 @@
+C:\Users\DCL\source\AspnetB10\Reflection\bin\Debug\net7.0\Reflection.exe
+C:\Users\DCL\source\AspnetB10\Reflection\bin\Debug\net7.0\Reflection.deps.json
+C:\Users\DCL\source\AspnetB10\Reflection\bin\Debug\net7.0\Reflection.runtimeconfig.json
+C:\Users\DCL\source\AspnetB10\Reflection\bin\Debug\net7.0\Reflection.dll
+C:\Users\DCL\source\AspnetB10\Reflection\bin\Debug\net7.0\Reflection.pdb
+C:\Users\DCL\source\AspnetB10\Reflection\obj\Debug\net7.0\Reflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\AspnetB10\Reflection\obj\Debug\net7.0\Reflection.AssemblyInfoInputs.cache
+C:\Users\DCL\source\AspnetB10\Reflection\obj\Debug\net7.0\Reflection.AssemblyInfo.cs
+C:\Users\DCL\source\AspnetB10\Reflection\obj\Debug\net7.0\Reflection.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\AspnetB10\Reflection\obj\Debug\net7.0\Reflection.dll
+C:\Users\DCL\source\AspnetB10\Reflection\obj\Debug\net7.0\refint\Reflection.dll
+C:\Users\DCL\source\AspnetB10\Reflection\obj\Debug\net7.0\Reflection.pdb
+C:\Users\DCL\source\AspnetB10\Reflection\obj\Debug\net7.0\Reflection.genruntimeconfig.cache
+C:\Users\DCL\source\AspnetB10\Reflection\obj\Debug\net7.0\ref\Reflection.dll

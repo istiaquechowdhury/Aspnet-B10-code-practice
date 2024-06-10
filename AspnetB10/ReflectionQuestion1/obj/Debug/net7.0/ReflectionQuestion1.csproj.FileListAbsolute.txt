@@ -1,0 +1,14 @@
+C:\Users\DCL\source\AspnetB10\ReflectionQuestion1\bin\Debug\net7.0\ReflectionQuestion1.exe
+C:\Users\DCL\source\AspnetB10\ReflectionQuestion1\bin\Debug\net7.0\ReflectionQuestion1.deps.json
+C:\Users\DCL\source\AspnetB10\ReflectionQuestion1\bin\Debug\net7.0\ReflectionQuestion1.runtimeconfig.json
+C:\Users\DCL\source\AspnetB10\ReflectionQuestion1\bin\Debug\net7.0\ReflectionQuestion1.dll
+C:\Users\DCL\source\AspnetB10\ReflectionQuestion1\bin\Debug\net7.0\ReflectionQuestion1.pdb
+C:\Users\DCL\source\AspnetB10\ReflectionQuestion1\obj\Debug\net7.0\ReflectionQuestion1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\AspnetB10\ReflectionQuestion1\obj\Debug\net7.0\ReflectionQuestion1.AssemblyInfoInputs.cache
+C:\Users\DCL\source\AspnetB10\ReflectionQuestion1\obj\Debug\net7.0\ReflectionQuestion1.AssemblyInfo.cs
+C:\Users\DCL\source\AspnetB10\ReflectionQuestion1\obj\Debug\net7.0\ReflectionQuestion1.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\AspnetB10\ReflectionQuestion1\obj\Debug\net7.0\ReflectionQuestion1.dll
+C:\Users\DCL\source\AspnetB10\ReflectionQuestion1\obj\Debug\net7.0\refint\ReflectionQuestion1.dll
+C:\Users\DCL\source\AspnetB10\ReflectionQuestion1\obj\Debug\net7.0\ReflectionQuestion1.pdb
+C:\Users\DCL\source\AspnetB10\ReflectionQuestion1\obj\Debug\net7.0\ReflectionQuestion1.genruntimeconfig.cache
+C:\Users\DCL\source\AspnetB10\ReflectionQuestion1\obj\Debug\net7.0\ref\ReflectionQuestion1.dll

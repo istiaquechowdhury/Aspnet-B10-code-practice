@@ -1,0 +1,14 @@
+C:\Users\DCL\source\AspnetB10\ReflectionQuestion2\bin\Debug\net7.0\ReflectionQuestion2.exe
+C:\Users\DCL\source\AspnetB10\ReflectionQuestion2\bin\Debug\net7.0\ReflectionQuestion2.deps.json
+C:\Users\DCL\source\AspnetB10\ReflectionQuestion2\bin\Debug\net7.0\ReflectionQuestion2.runtimeconfig.json
+C:\Users\DCL\source\AspnetB10\ReflectionQuestion2\bin\Debug\net7.0\ReflectionQuestion2.dll
+C:\Users\DCL\source\AspnetB10\ReflectionQuestion2\bin\Debug\net7.0\ReflectionQuestion2.pdb
+C:\Users\DCL\source\AspnetB10\ReflectionQuestion2\obj\Debug\net7.0\ReflectionQuestion2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\AspnetB10\ReflectionQuestion2\obj\Debug\net7.0\ReflectionQuestion2.AssemblyInfoInputs.cache
+C:\Users\DCL\source\AspnetB10\ReflectionQuestion2\obj\Debug\net7.0\ReflectionQuestion2.AssemblyInfo.cs
+C:\Users\DCL\source\AspnetB10\ReflectionQuestion2\obj\Debug\net7.0\ReflectionQuestion2.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\AspnetB10\ReflectionQuestion2\obj\Debug\net7.0\ReflectionQuestion2.dll
+C:\Users\DCL\source\AspnetB10\ReflectionQuestion2\obj\Debug\net7.0\refint\ReflectionQuestion2.dll
+C:\Users\DCL\source\AspnetB10\ReflectionQuestion2\obj\Debug\net7.0\ReflectionQuestion2.pdb
+C:\Users\DCL\source\AspnetB10\ReflectionQuestion2\obj\Debug\net7.0\ReflectionQuestion2.genruntimeconfig.cache
+C:\Users\DCL\source\AspnetB10\ReflectionQuestion2\obj\Debug\net7.0\ref\ReflectionQuestion2.dll
