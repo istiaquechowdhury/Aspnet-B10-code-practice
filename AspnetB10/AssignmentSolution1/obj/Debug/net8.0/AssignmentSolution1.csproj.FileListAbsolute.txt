@@ -12,3 +12,10 @@ C:\Users\DCL\source\AspnetB10\AssignmentSolution1\obj\Debug\net8.0\refint\Assign
 C:\Users\DCL\source\AspnetB10\AssignmentSolution1\obj\Debug\net8.0\AssignmentSolution1.pdb
 C:\Users\DCL\source\AspnetB10\AssignmentSolution1\obj\Debug\net8.0\AssignmentSolution1.genruntimeconfig.cache
 C:\Users\DCL\source\AspnetB10\AssignmentSolution1\obj\Debug\net8.0\ref\AssignmentSolution1.dll
+C:\Users\istia\source\AspnetB10\AssignmentSolution1\obj\Debug\net8.0\AssignmentSolution1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\istia\source\AspnetB10\AssignmentSolution1\obj\Debug\net8.0\AssignmentSolution1.AssemblyInfoInputs.cache
+C:\Users\istia\source\AspnetB10\AssignmentSolution1\obj\Debug\net8.0\AssignmentSolution1.AssemblyInfo.cs
+C:\Users\istia\source\AspnetB10\AssignmentSolution1\obj\Debug\net8.0\AssignmentSolution1.csproj.CoreCompileInputs.cache
+C:\Users\istia\source\AspnetB10\AssignmentSolution1\obj\Debug\net8.0\AssignmentSolution1.dll
+C:\Users\istia\source\AspnetB10\AssignmentSolution1\obj\Debug\net8.0\refint\AssignmentSolution1.dll
+C:\Users\istia\source\AspnetB10\AssignmentSolution1\obj\Debug\net8.0\AssignmentSolution1.pdb

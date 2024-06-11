@@ -12,3 +12,17 @@ C:\Users\DCL\source\AspnetB10\AssigmentDemo\obj\Debug\net7.0\refint\AssigmentDem
 C:\Users\DCL\source\AspnetB10\AssigmentDemo\obj\Debug\net7.0\AssigmentDemo.pdb
 C:\Users\DCL\source\AspnetB10\AssigmentDemo\obj\Debug\net7.0\AssigmentDemo.genruntimeconfig.cache
 C:\Users\DCL\source\AspnetB10\AssigmentDemo\obj\Debug\net7.0\ref\AssigmentDemo.dll
+C:\Users\istia\source\AspnetB10\AssigmentDemo\bin\Debug\net7.0\AssigmentDemo.exe
+C:\Users\istia\source\AspnetB10\AssigmentDemo\bin\Debug\net7.0\AssigmentDemo.deps.json
+C:\Users\istia\source\AspnetB10\AssigmentDemo\bin\Debug\net7.0\AssigmentDemo.runtimeconfig.json
+C:\Users\istia\source\AspnetB10\AssigmentDemo\bin\Debug\net7.0\AssigmentDemo.dll
+C:\Users\istia\source\AspnetB10\AssigmentDemo\bin\Debug\net7.0\AssigmentDemo.pdb
+C:\Users\istia\source\AspnetB10\AssigmentDemo\obj\Debug\net7.0\AssigmentDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\istia\source\AspnetB10\AssigmentDemo\obj\Debug\net7.0\AssigmentDemo.AssemblyInfoInputs.cache
+C:\Users\istia\source\AspnetB10\AssigmentDemo\obj\Debug\net7.0\AssigmentDemo.AssemblyInfo.cs
+C:\Users\istia\source\AspnetB10\AssigmentDemo\obj\Debug\net7.0\AssigmentDemo.csproj.CoreCompileInputs.cache
+C:\Users\istia\source\AspnetB10\AssigmentDemo\obj\Debug\net7.0\AssigmentDemo.dll
+C:\Users\istia\source\AspnetB10\AssigmentDemo\obj\Debug\net7.0\refint\AssigmentDemo.dll
+C:\Users\istia\source\AspnetB10\AssigmentDemo\obj\Debug\net7.0\AssigmentDemo.pdb
+C:\Users\istia\source\AspnetB10\AssigmentDemo\obj\Debug\net7.0\AssigmentDemo.genruntimeconfig.cache
+C:\Users\istia\source\AspnetB10\AssigmentDemo\obj\Debug\net7.0\ref\AssigmentDemo.dll

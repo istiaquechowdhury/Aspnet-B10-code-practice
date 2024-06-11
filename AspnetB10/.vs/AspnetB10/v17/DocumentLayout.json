@@ -3,20 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\istia\\source\\AspnetB10\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE112CE2-B7AE-4EED-B83B-69DDE34514D0}|AssignmentSolution1Practice\\AssignmentSolution1Practice.csproj|c:\\users\\istia\\source\\aspnetb10\\assignmentsolution1practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE112CE2-B7AE-4EED-B83B-69DDE34514D0}|AssignmentSolution1Practice\\AssignmentSolution1Practice.csproj|solutionrelative:assignmentsolution1practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24B12BFE-2842-4352-A9D7-D0307ADE102D}|DIP\\DIP.csproj|c:\\users\\istia\\source\\aspnetb10\\dip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B12BFE-2842-4352-A9D7-D0307ADE102D}|DIP\\DIP.csproj|solutionrelative:dip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE112CE2-B7AE-4EED-B83B-69DDE34514D0}|AssignmentSolution1Practice\\AssignmentSolution1Practice.csproj|c:\\users\\istia\\source\\aspnetb10\\assignmentsolution1practice\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE112CE2-B7AE-4EED-B83B-69DDE34514D0}|AssignmentSolution1Practice\\AssignmentSolution1Practice.csproj|solutionrelative:assignmentsolution1practice\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24B12BFE-2842-4352-A9D7-D0307ADE102D}|DIP\\DIP.csproj|c:\\users\\istia\\source\\aspnetb10\\dip\\iprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B12BFE-2842-4352-A9D7-D0307ADE102D}|DIP\\DIP.csproj|solutionrelative:dip\\iprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE112CE2-B7AE-4EED-B83B-69DDE34514D0}|AssignmentSolution1Practice\\AssignmentSolution1Practice.csproj|c:\\users\\istia\\source\\aspnetb10\\assignmentsolution1practice\\jsonformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE112CE2-B7AE-4EED-B83B-69DDE34514D0}|AssignmentSolution1Practice\\AssignmentSolution1Practice.csproj|solutionrelative:assignmentsolution1practice\\jsonformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24B12BFE-2842-4352-A9D7-D0307ADE102D}|DIP\\DIP.csproj|c:\\users\\istia\\source\\aspnetb10\\dip\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B12BFE-2842-4352-A9D7-D0307ADE102D}|DIP\\DIP.csproj|solutionrelative:dip\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10C8F9B6-F528-4520-AA13-7815E674E240}|AssignmentSolution1\\AssignmentSolution1.csproj|c:\\users\\istia\\source\\aspnetb10\\assignmentsolution1\\jsonformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10C8F9B6-F528-4520-AA13-7815E674E240}|AssignmentSolution1\\AssignmentSolution1.csproj|solutionrelative:assignmentsolution1\\jsonformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24B12BFE-2842-4352-A9D7-D0307ADE102D}|DIP\\DIP.csproj|c:\\users\\istia\\source\\aspnetb10\\dip\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B12BFE-2842-4352-A9D7-D0307ADE102D}|DIP\\DIP.csproj|solutionrelative:dip\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B12BFE-2842-4352-A9D7-D0307ADE102D}|DIP\\DIP.csproj|c:\\users\\istia\\source\\aspnetb10\\dip\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B12BFE-2842-4352-A9D7-D0307ADE102D}|DIP\\DIP.csproj|solutionrelative:dip\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B12BFE-2842-4352-A9D7-D0307ADE102D}|DIP\\DIP.csproj|c:\\users\\istia\\source\\aspnetb10\\dip\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B12BFE-2842-4352-A9D7-D0307ADE102D}|DIP\\DIP.csproj|solutionrelative:dip\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B12BFE-2842-4352-A9D7-D0307ADE102D}|DIP\\DIP.csproj|c:\\users\\istia\\source\\aspnetb10\\dip\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B12BFE-2842-4352-A9D7-D0307ADE102D}|DIP\\DIP.csproj|solutionrelative:dip\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B12BFE-2842-4352-A9D7-D0307ADE102D}|DIP\\DIP.csproj|c:\\users\\istia\\source\\aspnetb10\\dip\\i3dshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B12BFE-2842-4352-A9D7-D0307ADE102D}|DIP\\DIP.csproj|solutionrelative:dip\\i3dshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B12BFE-2842-4352-A9D7-D0307ADE102D}|DIP\\DIP.csproj|c:\\users\\istia\\source\\aspnetb10\\dip\\cube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B12BFE-2842-4352-A9D7-D0307ADE102D}|DIP\\DIP.csproj|solutionrelative:dip\\cube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B12BFE-2842-4352-A9D7-D0307ADE102D}|DIP\\DIP.csproj|c:\\users\\istia\\source\\aspnetb10\\dip\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B12BFE-2842-4352-A9D7-D0307ADE102D}|DIP\\DIP.csproj|solutionrelative:dip\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,55 +50,136 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "JsonFormatter.cs",
-              "DocumentMoniker": "C:\\Users\\istia\\source\\AspnetB10\\AssignmentSolution1\\JsonFormatter.cs",
-              "RelativeDocumentMoniker": "AssignmentSolution1\\JsonFormatter.cs",
-              "ToolTip": "C:\\Users\\istia\\source\\AspnetB10\\AssignmentSolution1\\JsonFormatter.cs",
-              "RelativeToolTip": "AssignmentSolution1\\JsonFormatter.cs",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAywAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T07:58:38.443Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "JsonFormatter.cs",
-              "DocumentMoniker": "C:\\Users\\istia\\source\\AspnetB10\\AssignmentSolution1Practice\\JsonFormatter.cs",
-              "RelativeDocumentMoniker": "AssignmentSolution1Practice\\JsonFormatter.cs",
-              "ToolTip": "C:\\Users\\istia\\source\\AspnetB10\\AssignmentSolution1Practice\\JsonFormatter.cs",
-              "RelativeToolTip": "AssignmentSolution1Practice\\JsonFormatter.cs",
-              "ViewState": "AQIAAFwAAAAAAAAAAAAAAGsAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T07:23:56.227Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Teacher.cs",
-              "DocumentMoniker": "C:\\Users\\istia\\source\\AspnetB10\\AssignmentSolution1Practice\\Teacher.cs",
-              "RelativeDocumentMoniker": "AssignmentSolution1Practice\\Teacher.cs",
-              "ToolTip": "C:\\Users\\istia\\source\\AspnetB10\\AssignmentSolution1Practice\\Teacher.cs",
-              "RelativeToolTip": "AssignmentSolution1Practice\\Teacher.cs",
-              "ViewState": "AQIAALwAAAAAAAAAAAAqwM0AAAAAAAAA",
+              "Title": "IPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\istia\\source\\AspnetB10\\DIP\\IPrinter.cs",
+              "RelativeDocumentMoniker": "DIP\\IPrinter.cs",
+              "ToolTip": "C:\\Users\\istia\\source\\AspnetB10\\DIP\\IPrinter.cs",
+              "RelativeToolTip": "DIP\\IPrinter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T07:23:54.65Z"
+              "WhenOpened": "2024-06-11T09:17:12.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\Users\\istia\\source\\AspnetB10\\DIP\\Triangle.cs",
+              "RelativeDocumentMoniker": "DIP\\Triangle.cs",
+              "ToolTip": "C:\\Users\\istia\\source\\AspnetB10\\DIP\\Triangle.cs",
+              "RelativeToolTip": "DIP\\Triangle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T09:15:50.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Square.cs",
+              "DocumentMoniker": "C:\\Users\\istia\\source\\AspnetB10\\DIP\\Square.cs",
+              "RelativeDocumentMoniker": "DIP\\Square.cs",
+              "ToolTip": "C:\\Users\\istia\\source\\AspnetB10\\DIP\\Square.cs",
+              "RelativeToolTip": "DIP\\Square.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T09:15:49.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\istia\\source\\AspnetB10\\DIP\\Rectangle.cs",
+              "RelativeDocumentMoniker": "DIP\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\istia\\source\\AspnetB10\\DIP\\Rectangle.cs",
+              "RelativeToolTip": "DIP\\Rectangle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T09:15:48.152Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\istia\\source\\AspnetB10\\AssignmentSolution1Practice\\Program.cs",
-              "RelativeDocumentMoniker": "AssignmentSolution1Practice\\Program.cs",
-              "ToolTip": "C:\\Users\\istia\\source\\AspnetB10\\AssignmentSolution1Practice\\Program.cs",
-              "RelativeToolTip": "AssignmentSolution1Practice\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAANAAAAAKAAAA",
+              "DocumentMoniker": "C:\\Users\\istia\\source\\AspnetB10\\DIP\\Program.cs",
+              "RelativeDocumentMoniker": "DIP\\Program.cs",
+              "ToolTip": "C:\\Users\\istia\\source\\AspnetB10\\DIP\\Program.cs",
+              "RelativeToolTip": "DIP\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T07:23:53.337Z",
+              "WhenOpened": "2024-06-11T09:15:47.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Printer.cs",
+              "DocumentMoniker": "C:\\Users\\istia\\source\\AspnetB10\\DIP\\Printer.cs",
+              "RelativeDocumentMoniker": "DIP\\Printer.cs",
+              "ToolTip": "C:\\Users\\istia\\source\\AspnetB10\\DIP\\Printer.cs",
+              "RelativeToolTip": "DIP\\Printer.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T09:15:45.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IShape.cs",
+              "DocumentMoniker": "C:\\Users\\istia\\source\\AspnetB10\\DIP\\IShape.cs",
+              "RelativeDocumentMoniker": "DIP\\IShape.cs",
+              "ToolTip": "C:\\Users\\istia\\source\\AspnetB10\\DIP\\IShape.cs",
+              "RelativeToolTip": "DIP\\IShape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T09:15:44.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "I3Dshape.cs",
+              "DocumentMoniker": "C:\\Users\\istia\\source\\AspnetB10\\DIP\\I3Dshape.cs",
+              "RelativeDocumentMoniker": "DIP\\I3Dshape.cs",
+              "ToolTip": "C:\\Users\\istia\\source\\AspnetB10\\DIP\\I3Dshape.cs",
+              "RelativeToolTip": "DIP\\I3Dshape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T09:15:43.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cube.cs",
+              "DocumentMoniker": "C:\\Users\\istia\\source\\AspnetB10\\DIP\\Cube.cs",
+              "RelativeDocumentMoniker": "DIP\\Cube.cs",
+              "ToolTip": "C:\\Users\\istia\\source\\AspnetB10\\DIP\\Cube.cs",
+              "RelativeToolTip": "DIP\\Cube.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T09:15:42.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\istia\\source\\AspnetB10\\DIP\\Circle.cs",
+              "RelativeDocumentMoniker": "DIP\\Circle.cs",
+              "ToolTip": "C:\\Users\\istia\\source\\AspnetB10\\DIP\\Circle.cs",
+              "RelativeToolTip": "DIP\\Circle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T09:15:41.541Z",
               "EditorCaption": ""
             }
           ]

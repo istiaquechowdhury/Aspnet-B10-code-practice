@@ -12,3 +12,17 @@ C:\Users\DCL\source\AspnetB10\AssignmentPractice\obj\Debug\net8.0\refint\Assignm
 C:\Users\DCL\source\AspnetB10\AssignmentPractice\obj\Debug\net8.0\AssignmentPractice.pdb
 C:\Users\DCL\source\AspnetB10\AssignmentPractice\obj\Debug\net8.0\AssignmentPractice.genruntimeconfig.cache
 C:\Users\DCL\source\AspnetB10\AssignmentPractice\obj\Debug\net8.0\ref\AssignmentPractice.dll
+C:\Users\istia\source\AspnetB10\AssignmentPractice\bin\Debug\net8.0\AssignmentPractice.exe
+C:\Users\istia\source\AspnetB10\AssignmentPractice\bin\Debug\net8.0\AssignmentPractice.deps.json
+C:\Users\istia\source\AspnetB10\AssignmentPractice\bin\Debug\net8.0\AssignmentPractice.runtimeconfig.json
+C:\Users\istia\source\AspnetB10\AssignmentPractice\bin\Debug\net8.0\AssignmentPractice.dll
+C:\Users\istia\source\AspnetB10\AssignmentPractice\bin\Debug\net8.0\AssignmentPractice.pdb
+C:\Users\istia\source\AspnetB10\AssignmentPractice\obj\Debug\net8.0\AssignmentPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\istia\source\AspnetB10\AssignmentPractice\obj\Debug\net8.0\AssignmentPractice.AssemblyInfoInputs.cache
+C:\Users\istia\source\AspnetB10\AssignmentPractice\obj\Debug\net8.0\AssignmentPractice.AssemblyInfo.cs
+C:\Users\istia\source\AspnetB10\AssignmentPractice\obj\Debug\net8.0\AssignmentPractice.csproj.CoreCompileInputs.cache
+C:\Users\istia\source\AspnetB10\AssignmentPractice\obj\Debug\net8.0\AssignmentPractice.dll
+C:\Users\istia\source\AspnetB10\AssignmentPractice\obj\Debug\net8.0\refint\AssignmentPractice.dll
+C:\Users\istia\source\AspnetB10\AssignmentPractice\obj\Debug\net8.0\AssignmentPractice.pdb
+C:\Users\istia\source\AspnetB10\AssignmentPractice\obj\Debug\net8.0\AssignmentPractice.genruntimeconfig.cache
+C:\Users\istia\source\AspnetB10\AssignmentPractice\obj\Debug\net8.0\ref\AssignmentPractice.dll

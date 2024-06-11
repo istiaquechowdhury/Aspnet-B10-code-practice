@@ -12,3 +12,17 @@ C:\Users\DCL\source\AspnetB10\jsonSerialaization\obj\Debug\net7.0\refint\jsonSer
 C:\Users\DCL\source\AspnetB10\jsonSerialaization\obj\Debug\net7.0\jsonSerialaization.pdb
 C:\Users\DCL\source\AspnetB10\jsonSerialaization\obj\Debug\net7.0\jsonSerialaization.genruntimeconfig.cache
 C:\Users\DCL\source\AspnetB10\jsonSerialaization\obj\Debug\net7.0\ref\jsonSerialaization.dll
+C:\Users\istia\source\AspnetB10\jsonSerialaization\bin\Debug\net7.0\jsonSerialaization.exe
+C:\Users\istia\source\AspnetB10\jsonSerialaization\bin\Debug\net7.0\jsonSerialaization.deps.json
+C:\Users\istia\source\AspnetB10\jsonSerialaization\bin\Debug\net7.0\jsonSerialaization.runtimeconfig.json
+C:\Users\istia\source\AspnetB10\jsonSerialaization\bin\Debug\net7.0\jsonSerialaization.dll
+C:\Users\istia\source\AspnetB10\jsonSerialaization\bin\Debug\net7.0\jsonSerialaization.pdb
+C:\Users\istia\source\AspnetB10\jsonSerialaization\obj\Debug\net7.0\jsonSerialaization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\istia\source\AspnetB10\jsonSerialaization\obj\Debug\net7.0\jsonSerialaization.AssemblyInfoInputs.cache
+C:\Users\istia\source\AspnetB10\jsonSerialaization\obj\Debug\net7.0\jsonSerialaization.AssemblyInfo.cs
+C:\Users\istia\source\AspnetB10\jsonSerialaization\obj\Debug\net7.0\jsonSerialaization.csproj.CoreCompileInputs.cache
+C:\Users\istia\source\AspnetB10\jsonSerialaization\obj\Debug\net7.0\jsonSerialaization.dll
+C:\Users\istia\source\AspnetB10\jsonSerialaization\obj\Debug\net7.0\refint\jsonSerialaization.dll
+C:\Users\istia\source\AspnetB10\jsonSerialaization\obj\Debug\net7.0\jsonSerialaization.pdb
+C:\Users\istia\source\AspnetB10\jsonSerialaization\obj\Debug\net7.0\jsonSerialaization.genruntimeconfig.cache
+C:\Users\istia\source\AspnetB10\jsonSerialaization\obj\Debug\net7.0\ref\jsonSerialaization.dll

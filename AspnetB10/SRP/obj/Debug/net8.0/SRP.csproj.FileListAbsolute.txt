@@ -1,0 +1,14 @@
+C:\Users\istia\source\AspnetB10\SRP\bin\Debug\net8.0\SRP.exe
+C:\Users\istia\source\AspnetB10\SRP\bin\Debug\net8.0\SRP.deps.json
+C:\Users\istia\source\AspnetB10\SRP\bin\Debug\net8.0\SRP.runtimeconfig.json
+C:\Users\istia\source\AspnetB10\SRP\bin\Debug\net8.0\SRP.dll
+C:\Users\istia\source\AspnetB10\SRP\bin\Debug\net8.0\SRP.pdb
+C:\Users\istia\source\AspnetB10\SRP\obj\Debug\net8.0\SRP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\istia\source\AspnetB10\SRP\obj\Debug\net8.0\SRP.AssemblyInfoInputs.cache
+C:\Users\istia\source\AspnetB10\SRP\obj\Debug\net8.0\SRP.AssemblyInfo.cs
+C:\Users\istia\source\AspnetB10\SRP\obj\Debug\net8.0\SRP.csproj.CoreCompileInputs.cache
+C:\Users\istia\source\AspnetB10\SRP\obj\Debug\net8.0\SRP.dll
+C:\Users\istia\source\AspnetB10\SRP\obj\Debug\net8.0\refint\SRP.dll
+C:\Users\istia\source\AspnetB10\SRP\obj\Debug\net8.0\SRP.pdb
+C:\Users\istia\source\AspnetB10\SRP\obj\Debug\net8.0\SRP.genruntimeconfig.cache
+C:\Users\istia\source\AspnetB10\SRP\obj\Debug\net8.0\ref\SRP.dll

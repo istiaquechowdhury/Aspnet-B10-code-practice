@@ -12,3 +12,17 @@ C:\Users\DCL\source\AspnetB10\LateBindingReflection\obj\Debug\net7.0\refint\Late
 C:\Users\DCL\source\AspnetB10\LateBindingReflection\obj\Debug\net7.0\LateBindingReflection.pdb
 C:\Users\DCL\source\AspnetB10\LateBindingReflection\obj\Debug\net7.0\LateBindingReflection.genruntimeconfig.cache
 C:\Users\DCL\source\AspnetB10\LateBindingReflection\obj\Debug\net7.0\ref\LateBindingReflection.dll
+C:\Users\istia\source\AspnetB10\LateBindingReflection\bin\Debug\net7.0\LateBindingReflection.exe
+C:\Users\istia\source\AspnetB10\LateBindingReflection\bin\Debug\net7.0\LateBindingReflection.deps.json
+C:\Users\istia\source\AspnetB10\LateBindingReflection\bin\Debug\net7.0\LateBindingReflection.runtimeconfig.json
+C:\Users\istia\source\AspnetB10\LateBindingReflection\bin\Debug\net7.0\LateBindingReflection.dll
+C:\Users\istia\source\AspnetB10\LateBindingReflection\bin\Debug\net7.0\LateBindingReflection.pdb
+C:\Users\istia\source\AspnetB10\LateBindingReflection\obj\Debug\net7.0\LateBindingReflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\istia\source\AspnetB10\LateBindingReflection\obj\Debug\net7.0\LateBindingReflection.AssemblyInfoInputs.cache
+C:\Users\istia\source\AspnetB10\LateBindingReflection\obj\Debug\net7.0\LateBindingReflection.AssemblyInfo.cs
+C:\Users\istia\source\AspnetB10\LateBindingReflection\obj\Debug\net7.0\LateBindingReflection.csproj.CoreCompileInputs.cache
+C:\Users\istia\source\AspnetB10\LateBindingReflection\obj\Debug\net7.0\LateBindingReflection.dll
+C:\Users\istia\source\AspnetB10\LateBindingReflection\obj\Debug\net7.0\refint\LateBindingReflection.dll
+C:\Users\istia\source\AspnetB10\LateBindingReflection\obj\Debug\net7.0\LateBindingReflection.pdb
+C:\Users\istia\source\AspnetB10\LateBindingReflection\obj\Debug\net7.0\LateBindingReflection.genruntimeconfig.cache
+C:\Users\istia\source\AspnetB10\LateBindingReflection\obj\Debug\net7.0\ref\LateBindingReflection.dll

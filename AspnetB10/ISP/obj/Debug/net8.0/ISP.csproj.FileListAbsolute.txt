@@ -1,0 +1,14 @@
+C:\Users\istia\source\AspnetB10\ISP\bin\Debug\net8.0\ISP.exe
+C:\Users\istia\source\AspnetB10\ISP\bin\Debug\net8.0\ISP.deps.json
+C:\Users\istia\source\AspnetB10\ISP\bin\Debug\net8.0\ISP.runtimeconfig.json
+C:\Users\istia\source\AspnetB10\ISP\bin\Debug\net8.0\ISP.dll
+C:\Users\istia\source\AspnetB10\ISP\bin\Debug\net8.0\ISP.pdb
+C:\Users\istia\source\AspnetB10\ISP\obj\Debug\net8.0\ISP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\istia\source\AspnetB10\ISP\obj\Debug\net8.0\ISP.AssemblyInfoInputs.cache
+C:\Users\istia\source\AspnetB10\ISP\obj\Debug\net8.0\ISP.AssemblyInfo.cs
+C:\Users\istia\source\AspnetB10\ISP\obj\Debug\net8.0\ISP.csproj.CoreCompileInputs.cache
+C:\Users\istia\source\AspnetB10\ISP\obj\Debug\net8.0\ISP.dll
+C:\Users\istia\source\AspnetB10\ISP\obj\Debug\net8.0\refint\ISP.dll
+C:\Users\istia\source\AspnetB10\ISP\obj\Debug\net8.0\ISP.pdb
+C:\Users\istia\source\AspnetB10\ISP\obj\Debug\net8.0\ISP.genruntimeconfig.cache
+C:\Users\istia\source\AspnetB10\ISP\obj\Debug\net8.0\ref\ISP.dll
